@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Étudiant Ingénieur — Génie Logiciel et Intégration des Systèmes</strong><br/>
+  <strong>Software Engineering and Systems Integration student</strong><br/>
   FST Mohammedia &nbsp;|&nbsp; Skhirat, Maroc
 </p>
 
